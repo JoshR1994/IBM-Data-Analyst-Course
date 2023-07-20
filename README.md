@@ -1,8 +1,6 @@
 # IBM Data Analyst Course
 
-The IBM Data Analyst Certificate is a certification offered by IBM that focuses on developing knowledge and skills in the field of data analysis. It is designed for beginners and individuals with a basic understanding of data analysis concepts.
-
-The IBM Data Analyst Certificate offers training in various essential skills for data analysts. Participants gain insights in following areas:
+The IBM Data Analyst Certificate is a certification offered by IBM that focuses on developing knowledge and skills in the field of data analysis. It is designed for beginners and individuals with a basic understanding of data analysis concepts and offers training in various essential skills for data analysts. Participants gain insights in following areas:
 
 -Statistical Analysis: The certificate program covers statistical concepts and techniques used in data analysis, such as descriptive statistics, hypothesis testing, regression analysis, and data modeling. Participants learn how to analyze data sets, interpret results, and draw meaningful conclusions.
 
